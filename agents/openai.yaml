@@ -1,6 +1,6 @@
 interface:
   display_name: "Health Planner"
-  short_description: "随手记录健康状态，获得全天进度、当下点评和一个下一步"
+  short_description: "随手记录健康状态，查看今日进度，获得循证计划和主动阶段复盘"
   default_prompt: "使用 $health-planner 帮我建立一个低负担的健康反馈计划，并从今天开始记录。"
 policy:
   allow_implicit_invocation: true
